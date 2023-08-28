@@ -1,0 +1,48 @@
+{
+  "MiniCard": [
+    {
+      "id": 0,
+      "img": "/icons/airplaner.svg",
+      "number": "23,973",
+      "about": "Travel to over 23 thousand locations around the world."
+    },
+    {
+      "id": 1,
+      "number": "82,000",
+      "img": "/icons/world.svg",
+      "about": "Read tens of thousands of reviews of destinations."
+    },
+    {
+      "id": 2,
+      "number": "4,000,000",
+      "img": "/icons/biycecle.svg",
+      "about": "Visited by millions of travellers every single day."
+    }
+  ],
+  "Card": [
+    {
+      "id": 0,
+      "img": "/img/time.png",
+      "title": "Plan Trip Dates",
+      "description": "orem ipsum dolor sit amet, consectetur adipiscing elit. "
+    },
+    {
+      "id": 1,
+      "img": "/img/Plane and Money.png",
+      "title": "Pay For Your Flights",
+      "description": "orem ipsum dolor sit amet, consectetur adipiscing elit. "
+    },
+    {
+      "id": 1,
+      "img": "/img/Money.png",
+      "title": "Plan Your Finances",
+      "description": "orem ipsum dolor sit amet, consectetur adipiscing elit. "
+    }
+  ],
+  "SwiperImg": [
+    { "id": 0, "img": "/swiper-svg-img/img1.svg" },
+    { "id": 1, "img": "/swiper-svg-img/img2.svg" },
+    { "id": 2, "img": "/swiper-svg-img/img1.svg" },
+    { "id": 3, "img": "/swiper-svg-img/img2.svg" }
+  ]
+}
